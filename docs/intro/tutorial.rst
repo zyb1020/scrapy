@@ -1,11 +1,11 @@
 .. _intro-tutorial:
 
 ===============
-Scrapy Tutorial（肆揩皮） 指南教程
+Scrapy（肆揩皮） 指南教程
 ===============
 
-In this tutorial, we'll assume that Scrapy is already installed on your system.
-If that's not the case, see :ref:`intro-install`.
+在此教程中，我们默认你已在系统中安装肆揩皮，如果你还未安装，请参考 :ref:`intro-install`.
+
 
 We are going to scrape `quotes.toscrape.com <http://quotes.toscrape.com/>`_, a website
 that lists quotes from famous authors.
