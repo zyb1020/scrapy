@@ -1,15 +1,15 @@
 .. _topics-index:
 
 ==============================
-Scrapy |version| documentation
+Scrapy |version| 肆揩皮说明文档
 ==============================
 
-This documentation contains everything you need to know about Scrapy.
+本文档包含你想知道肆揩皮的一切。
 
-Getting help
+帮助
 ============
 
-Having trouble? We'd like to help!
+有问题？乐意帮助！
 
 * Try the :doc:`FAQ <faq>` -- it's got answers to some common questions.
 * Looking for specific information? Try the :ref:`genindex` or :ref:`modindex`.
@@ -26,12 +26,13 @@ Having trouble? We'd like to help!
 .. _issue tracker: https://github.com/scrapy/scrapy/issues
 
 
-First steps
+
+初步
 ===========
 
 .. toctree::
-   :caption: First steps
-   :hidden:
+   :caption: 第一步
+   :hidden:
 
    intro/overview
    intro/install
